@@ -119,7 +119,11 @@ In this exercise, we will be creating the Host pool using **Quickstart** using m
    - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
  
       <validation step="ba322777-484a-4333-a812-4e7e4cf42e48" />   
-   
-* Click on the **Next** button present in the bottom-right corner of this lab guide.
+
+### Summary 
+
+This lab demonstrates how to create a host pool in Azure Virtual Desktop (AVD) using the Quickstart Wizard. You will configure project details, set up session hosts, assign users, and deploy the host pool, which includes a default application group and workspace.
+
+### You have successfully completed the lab. Click on Next >> to procced with next lab.
    
    
