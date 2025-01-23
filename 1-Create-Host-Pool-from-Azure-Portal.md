@@ -12,7 +12,7 @@ A Host Pool is a collection of Azure virtual machines that register to Azure Vir
 
 In this exercise, we will be creating the Host pool using **Quickstart** using minimum effort and information.
 
-1. On the **Azure portal** search for **Azure Virtual Desktop** **(1)** in the search bar and select **Azure Virtual Desktop** **(2)** from the suggestions.
+1. On Azure Portal page, in **Search resources, services and docs (G+/)** box at the top of the portal, enter **Azure Virtual Desktop** **(1)**, and then select **Azure Virtual Desktop** **(1)** under services.
 
    ![ws name.](media/2avd1.png)
    
